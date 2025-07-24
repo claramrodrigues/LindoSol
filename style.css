@@ -1,0 +1,24 @@
+h1 {
+    font-family:Sour Gummy;
+    color: blueviolet;
+}
+p {
+    font-family:Roboto;
+}
+hero {
+    display: flex;
+    justify-content: center;
+}
+.hero2 {
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+nav, footer {
+    background-color: #a888e4;
+}
+.clara{
+    margin-top: 50px !important;
+}
